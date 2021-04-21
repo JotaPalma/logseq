@@ -20,4 +20,5 @@ title: Zettelkasten
 ## According to Niklas Luhmann’s paper on the zettelkasten, it gets to a point where it’s its own entity. It’s got a separate way of thinking and can answer questions in a non- [[linear thinking]] way
 ## Sources:
 ### [The Zettelkasten Method Explained](https://youtu.be/wFZHuWLA09M)
+### [Roam Research, a tool for zettel](Roamresearch.com)
 ###
