@@ -19,7 +19,8 @@ title: study without burning out
 #### Keep your bedroom dark and cold
 ## Exercise
 ### Exercising plays a part on memory and concentration
-###
+### The effects of cardiovascular exercise on human memory (Roig et al. 2013)
+####
 ## Environment
 ## Mindset
 ## Source: [Youtube](https://youtu.be/FARXrLsBNJY)
