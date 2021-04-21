@@ -10,7 +10,4 @@ Similarly to [0101 The Zettelkasten Method - Management](https://www.notion.so/0
 The one thing I don’t think I’ll adopt, that seems crucial in the mind gardens subreddit, is to make my work public. Many gardens over there welcome outsiders and their contributes.
 
 I really do want my Second Brain to be my own, to work with me and for me. I’m not excluding the possibility of making it public at some point, in full or in part, but I don’t think I’ll ever take collaborations.
-
-# Source:
-
-[KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain)
+*** Source: [[https://github.com/KasperZutterman/Second-Brain][Second Brain]]
