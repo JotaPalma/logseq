@@ -16,5 +16,7 @@ title: study without burning out
 #### Decrease blue light in the evening
 #### Avoid caffeine in the evening
 #### Consistent wake\sleep cycles
-####
+#### Keep your bedroom dark and cold
+## Exercise
+##
 ## Source: [Youtube](https://youtu.be/FARXrLsBNJY)
