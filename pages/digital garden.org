@@ -1,7 +1,7 @@
 #+TITLE: Digital Garden
 
 ** #Second-Brain #Personal-Knowledge-Management
-** Digital gardening is a method of [[Personal-Knowledge-Management]] and [[Second-Brain]] [0101 Second Brain](https://www.notion.so/0101-Second-Brain-a0d8e1b30a4e4101b86f6804f8f94b2a).
+** Digital gardening is a method of [[Personal-Knowledge-Management]] and [[Second-Brain]] 
 
 Similarly to [0101 The Zettelkasten Method - Management](https://www.notion.so/0101-The-Zettelkasten-Method-Management-2e13462de3474001840211805997b24b), it consists of notes featuring single ideas, concepts or resources. Bidirectional backlinks through the notes are important.
 
