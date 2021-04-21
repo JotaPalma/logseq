@@ -8,4 +8,4 @@ title: What to store
 ## Capture what surprises you, because it’s likely that it’s new to you, or interesting.
 ## [[don’t trust your present self]], create with your future self in mind
 ## Instead of just capturing something without context, highlight the important parts, and comment on what it means to you.
-##
+## [Source](https://youtu.be/4bxpsvcW2mc)
