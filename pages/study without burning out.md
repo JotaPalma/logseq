@@ -26,7 +26,7 @@ title: study without burning out
 ### Where are you studying?
 ### Use classical conditioning, sitting on a specific spot on the table makes your brain know it’s time to focus up and study
 ### Clean your workplace to reduce distractions
-## Mindset
+## - Mindset
 ### Instead of framing it as “I have to...” do it as “I get to...”
 ### Book→ How to Stop Worrying and Start Living - Dale Carnegie
 #### Life in day-tight compartments, focusing on what you’re studying that day
