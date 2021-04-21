@@ -22,4 +22,4 @@ title: Zettelkasten
 ### [The Zettelkasten Method Explained](https://youtu.be/wFZHuWLA09M)
 ### [Roam Research, a tool for zettel](Roamresearch.com)
 ### [Remnote.io, another tool](Remnote.io)
-###
+### [Zettelkasten in Notion](https://youtu.be/e3YKQ7JTqwU)
