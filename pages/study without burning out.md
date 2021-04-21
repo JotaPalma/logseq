@@ -13,5 +13,8 @@ title: study without burning out
 ### Book - Why we sleep - Matthew Walker, MD
 ### Tips
 #### Increase bright light during the day
+#### Decrease blue light in the evening
+#### Avoid caffeine in the evening
+#### Consistent wake\sleep cycles
 ####
 ## Source: [Youtube](https://youtu.be/FARXrLsBNJY)
