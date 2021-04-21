@@ -12,4 +12,5 @@ title: Second Brain
 ### Collect
 #### Collect the various snippets of info you encounter throughout the day
 ### Distill
-####
+#### Summarize the information progressively and delete what isn’t important
+### Express
