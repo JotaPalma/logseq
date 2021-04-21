@@ -5,7 +5,7 @@
 
 Similarly to the [[Zettelkasten]] Method, it consists of notes featuring single ideas, concepts or resources. [[Bidirectional Links]] through the notes are important.
 
-[0103 Notion vs. Obsidian](https://www.notion.so/0103-Notion-vs-Obsidian-e083d8931eb641788821a847cc34d337) Obsidian looks like a great system built for this.
+[[Obsidian]] looks like a great system built for this, but it’s definitely no 
 
 The one thing I don’t think I’ll adopt, that seems crucial in the mind gardens subreddit, is to make my work public. Many gardens over there welcome outsiders and their contributes.
 
