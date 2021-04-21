@@ -10,4 +10,4 @@ title: cognitive psychology
 ## Based on two assumptions, which are occasionally debated
 ### Human cognition can, at least in principle, be fully revealed by the scientific method.
 ### Internal mental processes can be described in terms of rules or algorithms in information processing models.
-## Sources:
+## Sources: [verywellmind.com](https://www.verywellmind.com/cognitive-psychology-4157181)
