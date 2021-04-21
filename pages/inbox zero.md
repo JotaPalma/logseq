@@ -9,4 +9,4 @@ title: inbox zero
 ## Archive things you no longer need to see in your inbox
 ## Use the folder\label function to separate emails into categories.
 ## Create a category for emails you need to spend some time replying, or that require your attention later. After all, [[categories are important]].
-## Source:
+## Source: Formação sobre gestão do tempo, em b-training
