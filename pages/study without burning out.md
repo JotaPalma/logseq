@@ -30,5 +30,5 @@ title: study without burning out
 ### Instead of framing it as “I have to...” do it as “I get to...”
 ### Book→ How to Stop Worrying and Start Living - Dale Carnegie
 #### Life in day-tight compartments, focusing on what you’re studying that day
-###
+### Know specifically what you’re going to be studying that day. Should be specific with goals, so you know what to do and when you’re done.
 ## Source: [Youtube](https://youtu.be/FARXrLsBNJY)
