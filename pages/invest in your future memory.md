@@ -2,6 +2,7 @@
 title: invest in your future memory
 ---
 
+## Tags
+### #[[Second Brain]] #memory
 ##
-##
-## Source: /
+## Source: [Youtube](https://youtu.be/96pSnIo4nDg)
