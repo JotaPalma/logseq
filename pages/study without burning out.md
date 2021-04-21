@@ -18,5 +18,7 @@ title: study without burning out
 #### Consistent wake\sleep cycles
 #### Keep your bedroom dark and cold
 ## Exercise
-##
+###
+## Environment
+## Mindset
 ## Source: [Youtube](https://youtu.be/FARXrLsBNJY)
