@@ -28,5 +28,7 @@ title: study without burning out
 ### Clean your workplace to reduce distractions
 ## Mindset
 ### Instead of framing it as “I have to...” do it as “I get to...”
+### Book→ How to Stop Worrying and Start Living - Dale Carnegie
+#### Life in day-tight compartments, focusing on what you’re studying that day
 ###
 ## Source: [Youtube](https://youtu.be/FARXrLsBNJY)
