@@ -6,4 +6,5 @@
 ** Notes:
 There are 3 strikes against it in the book:
 *** 1. It’s time consuming. Retrieving information right after acquiring it is [[Wasting time]]
+*** 2. It doesn’t create durable [[memories]]
 ***
