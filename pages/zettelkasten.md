@@ -21,4 +21,5 @@ title: Zettelkasten
 ## Sources:
 ### [The Zettelkasten Method Explained](https://youtu.be/wFZHuWLA09M)
 ### [Roam Research, a tool for zettel](Roamresearch.com)
+### [Remnote.io, another tool](Remnote.io)
 ###
