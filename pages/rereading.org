@@ -11,4 +11,5 @@
 *** The amount of study time is no measure of mastery.
 ** Does rereading help?
 *** Multiple readings in short succession aren’t very effective.
+*** Rereading a text once does help with recall, but only on the short term.
 ***
