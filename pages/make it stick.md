@@ -9,4 +9,5 @@ title: Make it Stick
 ### Preface
 #### Learning strategies
 ##### The most effective learning strategies are not intuitive
-##### @0501 Spaced Repetition of key ideas, and the interleaving of different but related topics.
+##### [[spaced repetition]] of key ideas, and the interleaving of different but related topics.
+#####
