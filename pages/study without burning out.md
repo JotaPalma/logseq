@@ -11,5 +11,7 @@ title: study without burning out
 #### 2 experiments with problem solving, 12h apart, one during the day and one with a night’s sleep between testings. The people who slept had 50% more success than the ones who didn’t
 ### Sleep helps retain information, consolidate memories and make new connections
 ### Book - Why we sleep - Matthew Walker, MD
-###
+### Tips
+#### Increase bright light during the day
+####
 ## Source: [Youtube](https://youtu.be/FARXrLsBNJY)
