@@ -12,4 +12,5 @@ title: Make it Stick
 ##### [[spaced repetition]] of key ideas, and the interleaving of different but related topics.
 ##### If learners spread out their study of a topic, periodically over time, they’ll remember it.
 ### Learning is misunderstood
+#### [[learning is not an innate skill]]
 ####
