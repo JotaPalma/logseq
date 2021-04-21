@@ -1,0 +1,16 @@
+#+TITLE: Digital Garden
+
+** #Second-Brain #Personal-Knowledge-Management
+** Digital gardening is a method of  [0101 Knowledge Management System](https://www.notion.so/0101-Knowledge-Management-System-a9fe3ecd3b254c1e8a9b59ef27679c89) and [0101 Second Brain](https://www.notion.so/0101-Second-Brain-a0d8e1b30a4e4101b86f6804f8f94b2a).
+
+Similarly to [0101 The Zettelkasten Method - Management](https://www.notion.so/0101-The-Zettelkasten-Method-Management-2e13462de3474001840211805997b24b), it consists of notes featuring single ideas, concepts or resources. Bidirectional backlinks through the notes are important.
+
+[0103 Notion vs. Obsidian](https://www.notion.so/0103-Notion-vs-Obsidian-e083d8931eb641788821a847cc34d337) Obsidian looks like a great system built for this.
+
+The one thing I don’t think I’ll adopt, that seems crucial in the mind gardens subreddit, is to make my work public. Many gardens over there welcome outsiders and their contributes.
+
+I really do want my Second Brain to be my own, to work with me and for me. I’m not excluding the possibility of making it public at some point, in full or in part, but I don’t think I’ll ever take collaborations.
+
+# Source:
+
+[KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain)
