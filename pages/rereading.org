@@ -7,4 +7,5 @@
 There are 3 strikes against it in the book:
 *** 1. It’s time consuming. Retrieving information right after acquiring it is [[Wasting time]]
 *** 2. It doesn’t create durable [[memories]]
-*** It involves [[self-deception]]. We’re tricked into thinking we’ve mastered the content after rereading
+*** It involves [[self-deception]]. We’re tricked into thinking we’ve mastered the content after rereading, when that’s not the case.
+***
