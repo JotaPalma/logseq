@@ -10,4 +10,6 @@ title: Second Brain
 ## CODE and PARA
 ## CODE:
 ### Collect
+#### Collect the various snippets of info you encounter throughout the day
+### Distill
 ####
