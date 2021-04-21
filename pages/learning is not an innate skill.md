@@ -8,6 +8,6 @@ title: learning is not an innate skill
 ## Every time you learn something new, you change the brain.
 ## We become capable through learning and development and make our own mental models that help us reason, solve and create.
 ## If you’re good at learning, you’ll have an advantage in life. It requires memory, continuous learning and is an acquired skill.
-## Gains achieved during massed practice are transitory and melt away quickly.
+## Gains achieved during massed practice or [[Rereading]] are transitory and melt away quickly.
 ## Learning is deeper and more durable when it’s effortful.
 ## Source: [[Make it Stick]]
