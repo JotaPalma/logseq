@@ -1,5 +1,6 @@
 #+TITLE: Chemiluminescence
 
+** Tags: #Chemistry #Science
 ** Definition
 
 The emission of light (luminescence) as the result of a chemical reaction. Typically, in a reaction, one photon should be released by each molecule of reactant.21
