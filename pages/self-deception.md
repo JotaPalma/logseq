@@ -2,4 +2,5 @@
 title: self-deception
 ---
 
-## I have been through this in one manner or another throughout my life, most in [[psychology]] / [[mental health]],
+## I have been through this in one manner or another throughout my life, most regularly in [[psychology]] / [[mental health]]. My whole personality was self-deception at one point.
+## When you tell yourself you're shit your
