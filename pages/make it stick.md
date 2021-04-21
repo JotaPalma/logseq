@@ -8,4 +8,4 @@ title: Make it Stick
 ## **Content:**
 ### Preface
 #### Learning strategies
-#####
+##### The most effective learning strategies are not intuitive
