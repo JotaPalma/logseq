@@ -1,11 +1,11 @@
 #+TITLE: Digital Garden
 
-** #Second-Brain #Personal-Knowledge-Management
+** #[[Second Brain]] #Personal-Knowledge-Management]
 ** Digital gardening is a method of [[Personal Knowledge Management]] and [[Second Brain]] 
 
 Similarly to the [[Zettelkasten]] Method, it consists of notes featuring single ideas, concepts or resources. [[Bidirectional Links]] through the notes are important.
 
-[[Obsidian]] looks like a great system built for this, but it’s a Windows-only app for now, so I’ll have to wait until I’ve either got a
+[[Obsidian]] looks like a great system built for this, but it’s a Windows-only app for now, so I’ll have to wait until I’ve either got a windows pc or they come out with the iOS and android app. Whichever comes first.
 
 The one thing I don’t think I’ll adopt, that seems crucial in the mind gardens subreddit, is to make my work public. Many gardens over there welcome outsiders and their contributes.
 
