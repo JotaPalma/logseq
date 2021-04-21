@@ -13,4 +13,12 @@ title: Make it Stick
 ##### If learners spread out their study of a topic, periodically over time, they’ll remember it.
 ### Learning is misunderstood
 #### [[learning is not an innate skill]]
-####
+#### [[retrieval practice]]
+#### [[elaboration]]
+#### [[all new learning requires a foundation of prior knowledge]]
+#### [[big picture]]
+#### [[being skeptical]]
+#### [[cognitive psychology]]
+#### [[rereading]]
+#### [[learning is stronger when it matters]]
+###
