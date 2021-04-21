@@ -19,7 +19,7 @@ Various chemical reactions happening in the atmosphere release electromagnetic e
 
 - Recombination of atoms photoionized by the Sun
 - Luminescence caused by cosmic rays hitting the upper atmosphere
-- [[]Chemiluminescence]] caused by oxygen and nitrogen reacting with hydroxyl free radicals
+- [[Chemiluminescence]] caused by oxygen and nitrogen reacting with hydroxyl free radicals
 - An atom of nitrogen combines with one of oxygen to form a molecule called nitric oxide (NO). In the process, a photon is emitted.
 **
 ** Source
