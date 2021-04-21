@@ -72,4 +72,5 @@
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {}
- :feature/enable-journals? false}
+ :feature/enable-journals? false
+ :default-home {:page "Second Brain"}}
