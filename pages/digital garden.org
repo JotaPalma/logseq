@@ -3,7 +3,7 @@
 ** #Second-Brain #Personal-Knowledge-Management
 ** Digital gardening is a method of [[Personal Knowledge Management]] and [[Second Brain]] 
 
-Similarly to the [[Zettelkasten]] Method, it consists of notes featuring single ideas, concepts or resources. Bidirectional backlinks through the notes are important.
+Similarly to the [[Zettelkasten]] Method, it consists of notes featuring single ideas, concepts or resources. [[Bidirectional Links]]Bidirectional backlinks through the notes are important.
 
 [0103 Notion vs. Obsidian](https://www.notion.so/0103-Notion-vs-Obsidian-e083d8931eb641788821a847cc34d337) Obsidian looks like a great system built for this.
 
