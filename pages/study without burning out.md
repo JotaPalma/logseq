@@ -23,5 +23,8 @@ title: study without burning out
 #### 2 bouts of 3 minutes of intense running on a treadmill before doing vocabulary tasks increases production of hormones in the brain and accelerated rate of learning by 20%
 ### Exercising before the study session or mid-session works better than after studying
 ## Environment
+### Where are you studying?
+### Use classical conditioning, sitting on a specific spot on the table makes your brain know it’s time to focus up and study
+###
 ## Mindset
 ## Source: [Youtube](https://youtu.be/FARXrLsBNJY)
