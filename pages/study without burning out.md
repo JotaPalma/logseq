@@ -18,6 +18,7 @@ title: study without burning out
 #### Consistent wake\sleep cycles
 #### Keep your bedroom dark and cold
 ## Exercise
+### Exercising plays a part on memory and concentration
 ###
 ## Environment
 ## Mindset
