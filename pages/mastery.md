@@ -4,4 +4,4 @@ title: mastery
 
 ## Tags
 ### #[[Make it Stick]] #Learning
-## What is mastery
+## Mastery is a gradual accretion of knowledge, conceptual understanding
