@@ -6,3 +6,4 @@ title: research more
 ## 5 hindrances (search TedTalk)
 ## Readwise.io store highlights and review them
 ## “How to take smart notes” book
+## Evergreen notes
