@@ -14,6 +14,9 @@ title: Second Brain
 ### Organize
 #### Refer to the PARA part for organizing
 ### Distill
+:PROPERTIES:
+:id: 6081a0d7-f974-48a4-bef5-8f2a3ee0d284
+:END:
 #### Summarize the information progressively and delete what isn’t important
 ### Express
 #### Share what you’ve learned with the world
