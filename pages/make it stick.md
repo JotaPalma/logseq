@@ -23,8 +23,8 @@ title: Make it Stick
 #### [[learning is stronger when it matters]], when you have an attachment to it
 #### What is [[mastery]] of a subject?
 #### [[testing]] as a way to practice [[active recall]]
-####
 ### To learn, retrieve
+####
 ### Mix up your practice
 ### Embrace difficulties
 ### Avoid illusions of knowing
