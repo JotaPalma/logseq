@@ -4,4 +4,4 @@ title: perfectionism
 
 ## Tags
 ### #self #productivity
-## So,
+## So, lç.,,ç.l
