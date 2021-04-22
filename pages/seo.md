@@ -3,10 +3,9 @@ title: SEO
 ---
 
 ## Tags
-### #marketing #formação
+### #marketing #[[digital marketing]] #formação
 ## KPI
-## Key Performance Indicators
-
+### Key Performance Indicators
 ## Meta smart
 - Prazo
 - Linha de chegada
