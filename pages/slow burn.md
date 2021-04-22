@@ -11,4 +11,5 @@ title: slow burn
 ### Learn something new and annotate it
 ### Journal
 ### Garden
+### Track habits
 ###
