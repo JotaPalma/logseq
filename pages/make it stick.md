@@ -19,7 +19,7 @@ title: Make it Stick
 #### [[big picture]]
 #### [[being skeptical]] is important
 #### [[cognitive psychology]]
-#### [[rereading]]
+#### [[rereading]] isn’t effective in the long run
 #### [[learning is stronger when it matters]]
 #### [[mastery]]
 #### [[testing]] as a way to practice [[active recall]]
