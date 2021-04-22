@@ -10,4 +10,5 @@ title: Learning
 ### Spaced out practice through [[spaced repetition]]
 ### Interleaving the practice of different but related topics or skills (could be through the [[zettelkasten]])
 ### Trying to solve a problem before being taught the solution
-### the underlying
+### ((distill))ing the underlying
+###
