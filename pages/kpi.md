@@ -2,7 +2,8 @@
 title: KPI
 ---
 
-##
+## Tags
+### #marketing
 ## KPI
 ## Key Performance Indicators
 
