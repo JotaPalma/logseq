@@ -17,7 +17,7 @@ title: Make it Stick
 #### [[elaboration]]
 #### [[all new learning requires a foundation of prior knowledge]]
 #### [[big picture]]
-#### [[being skeptical]]
+#### [[being skeptical]] is important
 #### [[cognitive psychology]]
 #### [[rereading]]
 #### [[learning is stronger when it matters]]
