@@ -3,7 +3,7 @@ title: SEO
 ---
 
 ## Tags
-### #marketing
+### #marketing #formação
 ## KPI
 ## Key Performance Indicators
 
