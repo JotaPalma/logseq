@@ -9,4 +9,4 @@ title: Ivy Lee method
 ## When you arrive tomorrow, concentrate only on your first task. Work until you finish it before moving on to the second task
 ## Approach the rest of your list the same way.at the end of the day, move any unfinished items to tomorrow’s list of six tasks.
 ## Repeat this process every working day
-## [[Source]]:
+## [[Source]]: [Systematic Mastery - How I use Obsidian as a Second Brain](https://youtu.be/uqVx22lo9_4)
