@@ -22,6 +22,7 @@ title: Make it Stick
 #### [[rereading]]
 #### [[learning is stronger when it matters]]
 #### [[mastery]]
+#### [[testing]] as a way to practice [[active recall]]
 ####
 ### To learn, retrieve
 ### Mix up your practice
