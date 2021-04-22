@@ -1,0 +1,5 @@
+---
+title: Ivy Lee method
+---
+
+## 
