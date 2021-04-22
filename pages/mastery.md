@@ -4,4 +4,6 @@ title: mastery
 
 ## Tags
 ### #[[Make it Stick]] #Learning
-## Mastery is a gradual accretion of knowledge, conceptual understanding
+##
+> Mastery in any field, from cooking to chess to brain sur- gery, is a gradual accretion of knowledge, conceptual under- standing, judgment, and skill.
+##
