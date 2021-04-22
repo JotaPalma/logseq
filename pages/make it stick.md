@@ -21,6 +21,8 @@ title: Make it Stick
 #### [[cognitive psychology]]
 #### [[rereading]]
 #### [[learning is stronger when it matters]]
+#### [[mastery]]
+####
 ### To learn, retrieve
 ### Mix up your practice
 ### Embrace difficulties
