@@ -5,9 +5,11 @@ title: Concept
 ## Concepts covered, alphabetically:
 ## A
 ## B
+### [[borrowed creativity]]
 ## C
 ## D
 ## E
+### [[elaboration]]
 ## F
 ## G
 ## H
@@ -23,6 +25,9 @@ title: Concept
 ## R
 ### [[rereading]]
 ## S
+### [[spaced repetition]]
+### [[systems thinking]]
+###
 ## T
 ## U
 ## V
@@ -31,8 +36,6 @@ title: Concept
 ## Y
 ## Z
 ##
-## [[elaboration]]
+##
 ## [[slow burn]]
 ## [[productivity]]
-## [[borrowed creativity]]
-##
