@@ -14,8 +14,7 @@
 ** Resources
 *** Subscribe to Wikipedia’s [[https://lists.wikimedia.org/mailman/listinfo/daily-article-l][“Featured Article” List]]
 *** Read The [[https://www.thefreedictionary.com/][Free Dictionary’s homepage]] or subscribe to the RSS [[https://www.thefreedictionary.com/_/WoD/rss.aspx?type=article][Article of the Day]]
-*** - [Article of the Day](https://www.thefreedictionary.com/_/WoD/rss.aspx?type=article)
-    - [In the News](https://www.thefreedictionary.com/_/WoD/rss.aspx?type=news)
+*** [In the News](https://www.thefreedictionary.com/_/WoD/rss.aspx?type=news)
     - [This Day in History](https://www.thefreedictionary.com/_/WoD/rss.aspx?type=history)
     - [Today’s Birthday](https://www.thefreedictionary.com/_/WoD/rss.aspx?type=birthday)
 - Subscribe to the [RSS](http://jerryandmartha.com/yourdailyart/yourdailyart.xml) at [Your Daily Art](http://yourdailyart.com/)
