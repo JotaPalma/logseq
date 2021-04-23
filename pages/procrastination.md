@@ -2,4 +2,8 @@
 title: procrastination
 ---
 
-## #[[mental health]] #self 
+---
+alias: procrastinating, procrastinate
+---
+
+## #[[mental health]] #self
