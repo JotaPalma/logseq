@@ -16,8 +16,8 @@
 *** Read The [[https://www.thefreedictionary.com/][Free Dictionary’s homepage]] or subscribe to the RSS [[https://www.thefreedictionary.com/_/WoD/rss.aspx?type=article][Article of the Day]]
 *** [[https://www.thefreedictionary.com/_/WoD/rss.aspx?type=news][In The News]]
 *** [[https://www.thefreedictionary.com/_/WoD/rss.aspx?type=history][This Day in History]]
-*** [Today’s Birthday](https://www.thefreedictionary.com/_/WoD/rss.aspx?type=birthday)
-- Subscribe to the [RSS](http://jerryandmartha.com/yourdailyart/yourdailyart.xml) at [Your Daily Art](http://yourdailyart.com/)
+*** [[https://www.thefreedictionary.com/_/WoD/rss.aspx?type=birthday][Today’s Birthday]]
+*** Subscribe to the [RSS](http://jerryandmartha.com/yourdailyart/yourdailyart.xml) at [Your Daily Art](http://yourdailyart.com/)
 - Subscribe to the feeds [Did You Know?](https://universalfacts.blogspot.com/) And [Tell Me Why?](https://tellmewhyfacts.blogspot.com/)
 - Listen to podcasts like [In Our Time](https://www.bbc.co.uk/radio4/history/inourtime/) and [Radio Open Source](http://www.radioopensource.org/)
 ** Source: [[https://www.lifehack.org/articles/featured/learn-something-new-every-day.html][How to Learn Something New Every Day and Stay Smart]]
