@@ -19,5 +19,5 @@
 *** [[https://www.thefreedictionary.com/_/WoD/rss.aspx?type=birthday][Today’s Birthday]]
 *** Subscribe to the [[http://jerryandmartha.com/yourdailyart/yourdailyart.xml][RSS]] at [[http://yourdailyart.com/][Your Daily Art]]
 *** Subscribe to the feeds [[https://universalfacts.blogspot.com/][Did You Know?]] And [[https://tellmewhyfacts.blogspot.com/][Tell Me Why?]]
-*** Listen to podcasts like [[https://www.bbc.co.uk/radio4/history/inourtime/][In Our Time]] and [Radio Open Source](http://www.radioopensource.org/)
+*** Listen to podcasts like [[https://www.bbc.co.uk/radio4/history/inourtime/][In Our Time]] and [[http://www.radioopensource.org/][Radio Open Source]]
 ** Source: [[https://www.lifehack.org/articles/featured/learn-something-new-every-day.html][How to Learn Something New Every Day and Stay Smart]]
