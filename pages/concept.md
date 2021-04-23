@@ -34,7 +34,5 @@ title: Concept
 ## [[elaboration]]
 ## [[slow burn]]
 ## [[productivity]]
-## [[systems thinking]]
-## [[spaced repetition]]
 ## [[borrowed creativity]]
 ##
