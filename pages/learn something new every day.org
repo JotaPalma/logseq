@@ -11,8 +11,7 @@
 - Innovation by thinking creatively and providing examples
 - Depth of character, makes you inspiring to others
 - Confidence
-- Understanding of the historical, social and natural processes that impact and limit our lives [Systems Thinking](https://www.notion.so/Systems-Thinking-e7f36c23362b4cb7a03c73d939ceeb72)
-
+- Understanding of the historical, social and natural processes that impact and limit our lives [[systems thinking]]
 ** Resources
 
 - Subscribe to Wikipedia’s [[https://lists.wikimedia.org/mailman/listinfo/daily-article-l]][“Featured Article” List
