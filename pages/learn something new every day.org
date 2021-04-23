@@ -17,7 +17,7 @@
 *** [[https://www.thefreedictionary.com/_/WoD/rss.aspx?type=news][In The News]]
 *** [[https://www.thefreedictionary.com/_/WoD/rss.aspx?type=history][This Day in History]]
 *** [[https://www.thefreedictionary.com/_/WoD/rss.aspx?type=birthday][Today’s Birthday]]
-*** Subscribe to the [[http://jerryandmartha.com/yourdailyart/yourdailyart.xml][RSS]] at /l
-- Subscribe to the feeds [Did You Know?](https://universalfacts.blogspot.com/) And [Tell Me Why?](https://tellmewhyfacts.blogspot.com/)
+*** Subscribe to the [[http://jerryandmartha.com/yourdailyart/yourdailyart.xml][RSS]] at [[http://yourdailyart.com/][Your Daily Art]]
+*** Subscribe to the feeds [Did You Know?](https://universalfacts.blogspot.com/) And [Tell Me Why?](https://tellmewhyfacts.blogspot.com/)
 - Listen to podcasts like [In Our Time](https://www.bbc.co.uk/radio4/history/inourtime/) and [Radio Open Source](http://www.radioopensource.org/)
 ** Source: [[https://www.lifehack.org/articles/featured/learn-something-new-every-day.html][How to Learn Something New Every Day and Stay Smart]]
