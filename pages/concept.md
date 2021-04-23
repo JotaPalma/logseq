@@ -8,3 +8,5 @@ title: Concept
 ## [[elaboration]]
 ## [[slow burn]]
 ## [[productivity]]
+## [[spaced repetition]]
+##
