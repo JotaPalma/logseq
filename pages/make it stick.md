@@ -9,11 +9,11 @@ title: Make it Stick
 ## It is a book on learning, and how Spaced Repetition is the most effective study method
 ## **Content:**
 ### Preface
-#### Learning strategies
+#### [[Learning]] strategies
 ##### The most effective learning strategies are not intuitive
 ##### [[spaced repetition]] of key ideas, and the interleaving of different but related topics.
 ##### If learners spread out their study of a topic, periodically over time, they’ll remember it.
-### Learning is misunderstood
+### [[Learning]] is misunderstood
 #### [[learning is not an innate skill]]
 #### [[retrieval practice]]
 #### [[elaboration]]
