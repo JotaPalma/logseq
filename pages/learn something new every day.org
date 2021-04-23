@@ -14,7 +14,8 @@
 ** Resources
 
 - Subscribe to Wikipedia’s [[https://lists.wikimedia.org/mailman/listinfo/daily-article-l][“Featured Article” List]]
-*** - Read The [[https://www.thefreedictionary.com/][Free Dictionary’s homepage]] [Free Dictionary’s homepage](https://www.thefreedictionary.com/) or subscribe to the RSS
+**
+*** - Read The [[https://www.thefreedictionary.com/][Free Dictionary’s homepage]] or subscribe to the RSS
     - [Article of the Day](https://www.thefreedictionary.com/_/WoD/rss.aspx?type=article)
     - [In the News](https://www.thefreedictionary.com/_/WoD/rss.aspx?type=news)
     - [This Day in History](https://www.thefreedictionary.com/_/WoD/rss.aspx?type=history)
