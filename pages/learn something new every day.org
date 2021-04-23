@@ -2,8 +2,7 @@
 
 **Tags: #[[Second Brain]] #Learning 
 ** Intro
- While we all have one or two subjects where we (at least try to) strive in in terms of knowledge, it’s important to also gain knowledge of many other things. It’ll diversify my understanding of the subjects I’m interested in, it could find me new interests, and it’s a great asset when creating the [0101 Second Brain](https://www.notion.so/0101-Second-Brain-a0d8e1b30a4e4101b86f6804f8f94b2a).
-
+ While we all have one or two subjects where we (at least try to) strive in in terms of knowledge, it’s important to also gain knowledge of many other things. It’ll diversify my understanding of the subjects I’m interested in, it could find me new interests, and it’s a great asset when creating the [[Second Brain]].
 ** Benefits
 
 - Wide range of perspectives instead of having a narrow view of the world
