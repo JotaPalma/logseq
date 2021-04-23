@@ -1,10 +1,6 @@
 ---
 title: Learning
 ---
----
-alias: learn
----
-
 
 ## What doesn’t work for learning?
 ### [[linear thinking]] [[rereading]]
