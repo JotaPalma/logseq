@@ -21,13 +21,14 @@ title: Concept
 ## N
 ## O
 ## P
+### [[productivity]]
 ## Q
 ## R
 ### [[rereading]]
 ## S
 ### [[spaced repetition]]
 ### [[systems thinking]]
-###
+### [[slow burn]]
 ## T
 ## U
 ## V
@@ -35,7 +36,3 @@ title: Concept
 ## X
 ## Y
 ## Z
-##
-##
-## [[slow burn]]
-## [[productivity]]
