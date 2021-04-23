@@ -31,6 +31,6 @@ title: Make it Stick
 ### Mix up your practice
 ### Embrace difficulties
 ### Avoid illusions of knowing
-### Get beyond learning styles
+### Get beyond [[Learning]] styles
 ### Increase your abilities
 ### Make it stick
