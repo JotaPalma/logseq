@@ -9,4 +9,5 @@ title: Concept
 ## [[slow burn]]
 ## [[productivity]]
 ## [[spaced repetition]]
+## [[borrowed creativity]]
 ##
