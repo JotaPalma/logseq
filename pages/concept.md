@@ -21,7 +21,7 @@ title: Concept
 ## P
 ## Q
 ## R
-##
+### [[rereading]]
 ## S
 ## T
 ## U
@@ -31,10 +31,10 @@ title: Concept
 ## Y
 ## Z
 ##
-## [[systems thinking]]
 ## [[elaboration]]
 ## [[slow burn]]
 ## [[productivity]]
+## [[systems thinking]]
 ## [[spaced repetition]]
 ## [[borrowed creativity]]
 ##
