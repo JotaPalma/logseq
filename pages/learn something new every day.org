@@ -1,6 +1,5 @@
 #+TITLE: learn something new every day
 
-+TITLE: learn something new every 
 
 Tags: #[[Second Brain]] #Learning
 ** Intro
