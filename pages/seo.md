@@ -22,7 +22,7 @@ title: SEO
 ### Costumer Acquisition Cost
 ### How much does it cost to acquire a costumer through our actions
 ### How much the company spends in prospection
-### Quanto é que a empresa gasta na prospeção
+### Measures the value spent to convert a prospect into a paying costumer
 ### Mede o valor gasto para converter um prospect num cliente que paga
 ###
 ### CAC=Valor total dos investimentos / número de clientes conquistados
