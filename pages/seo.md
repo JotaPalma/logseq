@@ -20,7 +20,8 @@ title: SEO
 
 ## CAC
 ### Costumer Acquisition Cost
-### Quanto custa adquirir um cliente por meio das nossas ações
+### How much does it cost to acquire a costumer through our actions
+### How much the company spends in pros
 ### Quanto é que a empresa gasta na prospeção
 ### Mede o valor gasto para converter um prospect num cliente que paga
 ###
