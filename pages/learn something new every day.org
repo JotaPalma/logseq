@@ -1,3 +1,8 @@
+#+TITLE: learn something new every day
+
++TITLE: learn something new every 
+
+Tags: #[[Second Brain]] #Learning
 ** Intro
  While we all have one or two subjects where we (at least try to) strive in in terms of knowledge, it’s important to also gain knowledge of many other things. It’ll diversify my understanding of the subjects I’m interested in, it could find me new interests, and it’s a great asset when creating the [[Second Brain]].
 ** Benefits
