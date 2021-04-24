@@ -26,7 +26,7 @@ title: SEO
 ###
 ### CAC=Total value of investment / number of paying costumers acquired
 ## LTV
-### LiValor de Vida Útil do Cliente
+### Valor de Vida Útil do Cliente
 - Costumer Lifetime Value
 - Indicador: quanto um cliente rende para a empresa quando faz negócios com ela
 
