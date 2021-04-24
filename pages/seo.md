@@ -19,13 +19,12 @@ title: SEO
 - Objetivos claros
 
 ## CAC
-### Custo de Aquisição de clientes
-- Quanto custa adquirir um cliente por meio das nossas ações
-- Quanto é que a empresa gasta na prospeção
-- Mede o valor gasto para converter um prospect num cliente que paga
-
-CAC=Valor total dos investimentos / número de clientes conquistados
-
+### Costumer Acquisition Cost
+### Quanto custa adquirir um cliente por meio das nossas ações
+### Quanto é que a empresa gasta na prospeção
+### Mede o valor gasto para converter um prospect num cliente que paga
+###
+### CAC=Valor total dos investimentos / número de clientes conquistados
 ## LTV
 ### Valor de Vida Útil do Cliente
 - Costumer Lifetime Value
