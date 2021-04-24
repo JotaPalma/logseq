@@ -23,11 +23,10 @@ title: SEO
 ### How much does it cost to acquire a costumer through our actions
 ### How much the company spends in prospection
 ### Measures the value spent to convert a prospect into a paying costumer
-### Mede o valor gasto para converter um prospect num cliente que paga
 ###
-### CAC=Valor total dos investimentos / número de clientes conquistados
+### CAC=Total value of investment / number of paying costumers acquired
 ## LTV
-### Valor de Vida Útil do Cliente
+### LiValor de Vida Útil do Cliente
 - Costumer Lifetime Value
 - Indicador: quanto um cliente rende para a empresa quando faz negócios com ela
 
@@ -39,7 +38,6 @@ Com esta info, dá par comparar se o valor investido está compatível com o val
 - Tempo médio de navegação no site
 - Se as pessoas abandonam o site rapidamente, o conteúdo não é atrativo
 - Quanto mais tempo passam no site, melhor a qualidade do conteúdo e maior a probabilidade de conversão do cliente
-
 ## CPL
 ### Custo Por Lead
 - Potencial consumdor que mostra interesse pela marca, produto ou serviço
