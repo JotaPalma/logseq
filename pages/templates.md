@@ -2,8 +2,8 @@
 title: Templates
 ---
 
-##
-#+BEGIN_EXPORT
-hello
-#+END_EXPORT
+## 
+#+BEGIN_WARNING
+warn
+#+END_WARNING
 ##
