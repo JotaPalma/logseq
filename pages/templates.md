@@ -2,8 +2,7 @@
 title: Templates
 ---
 
-## 
-#+BEGIN_VERSE
+## #+BEGIN_VERSE
 muah
-#+END_VERSE
+## #+END_VERSE
 ##
