@@ -2,7 +2,8 @@
 title: Templates
 ---
 
-## :PROPERTIES:
+## 
+:PROPERTIES:
 :tags: 
 :END:
 ##
