@@ -9,4 +9,9 @@ title: Templates
 Summary:
 Notes:
 [[Source]]
-##
+## [[Food]]
+### [[Breakfast]]
+####
+### [[Lunch]]
+### [[Dinner]]
+### [[Snacks]]
