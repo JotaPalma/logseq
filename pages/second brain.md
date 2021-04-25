@@ -24,7 +24,7 @@ title: Second Brain
 #### Either on a blog, video format, etc.
 ## PARA
 ### Projects
-#### A series of tasks connected to a goal. Could be as simple as attending a class, developing a plan, writing or planning, etc. they are all actionable tasks
+#### A series of tasks connected to a goal. Could be as simple as attending a class, developing a plan, [[writing]] or planning, etc. they are all actionable tasks
 ### Areas of activity
 #### That you want to maintain over time. They’re the topics, like Health, finance, work, school, etc.
 ### Resources
