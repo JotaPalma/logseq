@@ -4,7 +4,7 @@ title: writing
 
 ## 
 :PROPERTIES:
-:tags: writing, learning,
+:tags: writing, learning, note-taking
 :END:
 ## 
 #+BEGIN_QUOTE
