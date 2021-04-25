@@ -3,7 +3,7 @@ title: Templates
 ---
 
 ## 
-#+BEGIN_PINNED
-meh
-#+END_PINNED
+#+BEGIN_VERSE
+muah
+#+END_VERSE
 ##
