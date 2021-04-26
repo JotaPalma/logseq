@@ -18,8 +18,10 @@ title: Zettelkasten
 > A Zettelkasten is a personal tool for thinking and [[writing]]. It has hypertextual features to make a web of thought possible. The difference to other systems is that you create a web of thoughts instead of notes of arbitrary size and form, and emphasize connection, not a collection
 — [Source](https://zettelkasten.de/introduction/)
 ## According to Niklas Luhmann’s paper on the zettelkasten, it gets to a point where it’s its own entity. It’s got a separate way of thinking and can answer questions in a non- [[linear thinking]] way
+##
 ## Sources:
 ### [The Zettelkasten Method Explained](https://youtu.be/wFZHuWLA09M)
 ### [Roam Research, a tool for zettel](Roamresearch.com)
 ### [Remnote.io, another tool](Remnote.io)
 ### [Zettelkasten in Notion](https://youtu.be/e3YKQ7JTqwU)
+###
