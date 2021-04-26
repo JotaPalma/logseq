@@ -24,4 +24,4 @@ title: Zettelkasten
 ### [Roam Research, a tool for zettel](Roamresearch.com)
 ### [Remnote.io, another tool](Remnote.io)
 ### [Zettelkasten in Notion](https://youtu.be/e3YKQ7JTqwU)
-###
+### [[How to Take Smart Notes]]
