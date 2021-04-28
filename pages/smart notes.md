@@ -2,7 +2,7 @@
 title: smart notes
 ---
 
-## The HOW in how to take smart notes:
+## The HOW in [[How to Take Smart Notes]]:
 1. Make fleeting notes, into an inbox, to be sorted later. Don’t sweat it about syntax or cohesiveness. Write it on your phone, a notebook, a napkin, whatever.
 2. Make literature notes about whatever you read. Jot down everything you don’t want to forget. Use [[your own words]]. Make notes on the quotes you do keep. These notes will be your reference system, your bibliography
 3. Make permanent notes. Instead of simply collecting your notes, develop them. Think about where they fit into your existing information, combine ideas to generate something new [[emergence]].
