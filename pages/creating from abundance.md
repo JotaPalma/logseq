@@ -2,18 +2,7 @@
 title: creating from abundance
 ---
 
-## Summary:
-:PROPERTIES:
-:background_color: #497d46
-:END:
-## Not starting from a blank page
-:PROPERTIES:
-:background_color: #497d46
-:END:
-## 
-:PROPERTIES:
-:background_color: #497d46
-:tags: 
-:END:
-Notes:
-[[Source]]
+## If you have a collection of notes, a [[zettelkasten]] or other [[Second Brain]], you’re never really starting from a blank page.
+## Whatever the topic, you can go to your notes and find whole lines of thought related to that subject.
+## For example, right now I’m reading
+##
