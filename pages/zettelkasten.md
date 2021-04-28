@@ -17,7 +17,7 @@ title: Zettelkasten
 ## 
 > A Zettelkasten is a personal tool for thinking and [[writing]]. It has hypertextual features to make a web of thought possible. The difference to other systems is that you create a web of thoughts instead of notes of arbitrary size and form, and emphasize connection, not a collection
 — [Source: zettelkasten.de](https://zettelkasten.de/introduction/)
-## According to Niklas Luhmann’s paper on the zettelkasten, it gets to a point where it’s its own entity. It’s got a separate way of thinking and can answer questions in a non- [[linear thinking]] way
+## According to Niklas Luhmann’s paper on the zettelkasten, it gets to a point where it’s its own entity. It’s got a separate way of thinking and can answer questions in a non-[[linear thinking]] way
 ## The zettelkasten is compensating for the faults in our brains. It works in a way similar to it, but it doesn’t have the faults a biological brain does.
 ## Sources:
 ### [The Zettelkasten Method Explained](https://youtu.be/wFZHuWLA09M)
