@@ -5,6 +5,7 @@ title: Templates
 ## 
 :PROPERTIES:
 :tags: 
+:template: tags
 :END:
 Summary:
 Notes:
