@@ -1,13 +1,41 @@
-#+TITLE: Digital Garden
+---
+title: Concept
+---
 
-** #[[Second Brain]] #Personal-Knowledge-Management]
-** Digital gardening is a method of [[Personal Knowledge Management]] and [[Second Brain]] 
-
-Similarly to the [[Zettelkasten]] Method, it consists of notes featuring single ideas, concepts or resources. [[Bidirectional Links]] through the notes are important.
-
-[[Obsidian]] looks like a great system built for this, but it’s a Windows-only app for now, so I’ll have to wait until I’ve either got a windows pc or they come out with the iOS and android app. Whichever comes first.
-
-The one thing I don’t think I’ll adopt, that seems crucial in the mind gardens subreddit, is to make my work public. Many gardens over there welcome outsiders and their contributes.
-
-I really do want my Second Brain to be my own, to work with me and for me. I’m not excluding the possibility of making it public at some point, in full or in part, but I don’t think I’ll ever take collaborations.
-*** Source: [[https://github.com/KasperZutterman/Second-Brain][Second Brain]]
+## Concepts covered, alphabetically:
+## A
+## B
+### [[borrowed creativity]]
+## C
+## D
+## E
+### [[elaboration]]
+## F
+## G
+## H
+## I
+## J
+## K
+## L
+## M
+## N
+## O
+## P
+### [[productivity]]
+## Q
+## R
+### [[rereading]]
+## S
+### [[spaced repetition]]
+### [[systems thinking]]
+### [[slow burn]]
+## T
+## U
+## V
+## W
+## X
+## Y
+## Z
+##
+## [[Created]]: [[Apr 23rd, 2021]] 12:48
+##

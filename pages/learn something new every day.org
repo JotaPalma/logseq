@@ -1,24 +1,8 @@
-#+TITLE: learn something new every day
+---
+title: elaboration
+---
 
-
-Tags: #[[Second Brain]] #Learning
-** Intro
- While we all have one or two subjects where we (at least try to) strive in in terms of knowledge, it’s important to also gain knowledge of many other things. It’ll diversify my understanding of the subjects I’m interested in, it could find me new interests, and it’s a great asset when creating the [[Second Brain]].
-** Benefits
-
-- Wide range of perspectives instead of having a narrow view of the world
-- Adaptability to new situations
-- Innovation by thinking creatively and providing examples
-- Depth of character, makes you inspiring to others
-- Confidence
-- Understanding of the historical, social and natural processes that impact and limit our lives [[systems thinking]]
-** Resources
-*** Subscribe to Wikipedia’s [[https://lists.wikimedia.org/mailman/listinfo/daily-article-l][“Featured Article” List]]
-*** Read The [[https://www.thefreedictionary.com/][Free Dictionary’s homepage]] or subscribe to the RSS [[https://www.thefreedictionary.com/_/WoD/rss.aspx?type=article][Article of the Day]]
-*** [[https://www.thefreedictionary.com/_/WoD/rss.aspx?type=news][In The News]]
-*** [[https://www.thefreedictionary.com/_/WoD/rss.aspx?type=history][This Day in History]]
-*** [[https://www.thefreedictionary.com/_/WoD/rss.aspx?type=birthday][Today’s Birthday]]
-*** Subscribe to the [[http://jerryandmartha.com/yourdailyart/yourdailyart.xml][RSS]] at [[http://yourdailyart.com/][Your Daily Art]]
-*** Subscribe to the feeds [[https://universalfacts.blogspot.com/][Did You Know?]] And [[https://tellmewhyfacts.blogspot.com/][Tell Me Why?]]
-*** Listen to podcasts like [[https://www.bbc.co.uk/radio4/history/inourtime/][In Our Time]] and [[http://www.radioopensource.org/][Radio Open Source]]
-** Source: [[https://www.lifehack.org/articles/featured/learn-something-new-every-day.html][How to Learn Something New Every Day and Stay Smart]]
+## Tags: #Learning #Concept
+## Definition:
+### Elaboration is the process of giving new meaning to the material by expressing it in your own words, and connecting it to what you already know. Basically it’s what we’ve known as summarizing someone else’s work.
+## Source: [[Make it Stick]]
