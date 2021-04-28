@@ -1,6 +1,10 @@
 ---
 title: PPV
 ---
+## 
+:PROPERTIES:
+:tags: second brain, productivity
+:END:
 ## Tags
 ### #[[Second Brain]] #[[productivity]]
 ## PPV: Pillars Pipelines and Vaults
