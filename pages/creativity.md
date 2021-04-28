@@ -1,0 +1,6 @@
+---
+title: Creativity
+---
+
+## Tags
+### #Concept
