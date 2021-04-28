@@ -17,7 +17,7 @@ title: PPV
 ### Projects, assigned to quarters and\or months, they support the pillars and are tied to the Goal Outlines,
 ## Week/month/quarter review
 ### With a template with a checklist for you to be able to assess how the week went, what could have been done better, etc. With rollup properties that link to the daily trackers to count important things (weight, exercise, sleep time, etc)
-## Growth
+# Growth
 ### Mindset and identity sculpting → Building goals and identity. Each day spend some time on a few categories to remind yourself of your values and the importance of continuing to work on yourself
 ### Fitness tracker, habits and routines, reviewed monthly.
 ### Mind expansion → library (books reading, key takeaway, notes. Media vault (same thing, purpose, medium, source, notes) Academy: Courses \ Training. Research Workspaces (In-Action Studio), with areas that are broader than just a specific project. Basically topics, aggregating all the projects related to them. Link to projects,pillars, action items.
