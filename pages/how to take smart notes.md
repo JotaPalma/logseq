@@ -8,3 +8,4 @@ title: How to Take Smart Notes
 ## Types of notes:
 ### [[fleeting notes]]: made in any medium at any time; will be thrown out in a day’s time
 ### [[permanent notes]]: go into the [[zettelkasten]] or a  reference system
+###
