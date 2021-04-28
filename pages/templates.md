@@ -12,6 +12,9 @@ Summary:
 Notes:
 [[Source]]
 ## [[Food]]
+:PROPERTIES:
+:template: food
+:END:
 ### [[Breakfast]]
 ####
 ### [[Lunch]]
