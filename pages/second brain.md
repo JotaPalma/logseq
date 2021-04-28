@@ -29,6 +29,9 @@ title: Second Brain
 #### That you want to maintain over time. They’re the topics, like Health, finance, work, school, etc.
 ### Resources
 ### Archive
+:PROPERTIES:
+:id: 608947ce-fa89-4bd4-b475-6909977b60b7
+:END:
 #### Inactive items from the other categories
 ## Publishing a book is a Project, but [[writing]] is an Area
 ## Saving 3 months of salary is a Project, but finance is an Area
