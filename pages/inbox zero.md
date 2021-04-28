@@ -2,6 +2,7 @@
 title: inbox zero
 ---
 
+##
 ## Definition
 ### It is the principle that your email inbox should always be kept empty, so as not to be a tool for distraction and procrastination, but for productivity.
 ## When at work, don’t check the email constantly. Schedule a reasonable amount of times you’ll check it (could be once a day, twice, every hour, etc).
