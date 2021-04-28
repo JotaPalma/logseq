@@ -20,4 +20,11 @@ Notes:
 ####
 ### [[Snacks]]
 ####
-## [[tags/template]]
+## 
+:PROPERTIES:
+:background_color: #497d46
+:tags: 
+:END:
+Summary:
+Notes:
+[[Source]]
