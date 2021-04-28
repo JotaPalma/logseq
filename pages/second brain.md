@@ -31,4 +31,4 @@ title: Second Brain
 ### Archive
 #### Inactive items from the other categories
 ## Publishing a book is a Project, but writing is an Area * Saving 3 months of salary is a Project, but finance is an Area * A vacation is a Project, travel is an Area * Projects have a completion date, and contribute to achieving goals. By completing a project, your success on that Area increases. * Goals by themselves will probably become hobbies over time, if not connected to a project. * Break down your goals into projects, and those projects into actions that you can take
-## [Source](https://youtu.be/96pSnIo4nDg)
+## [[Source]]: [Source](https://youtu.be/96pSnIo4nDg)
