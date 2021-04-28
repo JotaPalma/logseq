@@ -4,9 +4,9 @@ title: Templates
 
 ## 
 :PROPERTIES:
+:background_color: #497d46
 :tags: 
 :template: tags
-:background_color: #497d46
 :END:
 Summary:
 Notes:
@@ -20,4 +20,4 @@ Notes:
 ####
 ### [[Snacks]]
 ####
-##
+## <
