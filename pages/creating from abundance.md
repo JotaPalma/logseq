@@ -4,5 +4,5 @@ title: creating from abundance
 
 ## If you have a collection of notes, a [[zettelkasten]] or other [[Second Brain]], you’re never really starting from a blank page.
 ## Whatever the topic, you can go to your notes and find whole lines of thought related to that subject.
-## For example, right now I’m reading
+## For example, right now I’m reading [[How to Take Smart Notes]] and [[Make it Stick]], and I’m amassing notes about them. If I want to, I can write a blog post or article about smart note-taking, study techniques, the zettelkasten and how it all relates, by searching my
 ##
