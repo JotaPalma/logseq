@@ -23,8 +23,4 @@ Notes:
 ## 
 :PROPERTIES:
 :background_color: #497d46
-:tags: 
 :END:
-Summary:
-Notes:
-[[Source]]
