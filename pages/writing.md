@@ -12,7 +12,9 @@ Writing notes accompanies the main work and, done right, it helps with it. Writi
 #+END_QUOTE
  — [[How to Take Smart Notes]]
 ## This is definitely correct. Writing helps the ideas flow. Writing something about what you’re reading helps you put stuff into [[your own words]], which is an important part of [[Learning]]
-## Do everything with the intention of writing about it. That way you'll do everything more deliberately. [[Source]]: [[How to Take Smart Notes]]
+## Do everything with the intention of writing about it.
 :PROPERTIES:
 :id: 608947ce-cef4-4233-847c-aa14f6f5f44d
 :END:
+### That way you'll do everything more deliberately.
+### [[Source]]: [[How to Take Smart Notes]]
