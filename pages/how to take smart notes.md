@@ -10,4 +10,4 @@ title: How to Take Smart Notes
 ### [[permanent notes]]: go into the [[zettelkasten]] or a  [[reference]] system
 ### [[project notes]]: they are only relevant to a specific project. They can be discarded or go into the ((608947ce-fa89-4bd4-b475-6909977b60b7)) after the project is done
 ## The book seems to heavily imply the author is familiar with [[systems thinking]]. There are references of feedback loops, virtuous and vicious cycle, and all sorts of other such terms.
-##
+## Growth mindset: being open to feedback, be it positive or negative, in order to better oneself and grow
