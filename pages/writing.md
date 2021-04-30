@@ -20,4 +20,5 @@ Writing notes accompanies the main work and, done right, it helps with it. Writi
 ### [[Source]]: [[How to Take Smart Notes]]
 ## By writing down what you read in [[your own words]], you’re forcing yourself to understanding what you’re reading. And by turning your [[litnotes]] into [[permanent notes]], you’re catching yourself when you’re cheating and copying words you don’t understand
  ((608a8c99-3465-47e8-ac43-25337927d012))
-## [[edit]]: [[Apr 30th, 2021]] 13:45
+## [[edit]]
+### [[Apr 30th, 2021]] 13:45
