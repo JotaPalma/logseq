@@ -1,9 +1,8 @@
 ---
 title: SEO
+Tags: #marketing, #[[digital marketing]], #formação
 ---
 
-## Tags
-### #marketing #[[digital marketing]] #formação
 ## KPI
 ### Key Performance Indicators
 ## Meta smart
