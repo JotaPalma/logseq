@@ -1,5 +1,6 @@
 ---
 title: fleeting notes
+Tags: #zettelkasten 
 ---
 
 ## Always carry some writing material so that you can take notes any time, anywhere. Try to combine them all into one place, that we’ll call inbox
