@@ -1,5 +1,6 @@
 ---
 title: wasting time
+Tags: #productivity
 ---
 
 ## ** Definition
