@@ -1,5 +1,6 @@
 ---
 title: productivity
+tags: #topic, #Concept, #productivity
 ---
 
 ## As much as I’m against [[capitalism]]’s notion of being as productive as possible, I also feel my best when I’m [[Learning]] and creating.
