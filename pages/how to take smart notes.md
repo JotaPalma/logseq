@@ -1,5 +1,8 @@
 ---
 title: How to Take Smart Notes
+
+tags: #book, #productivity, #study, #note-taking, #litnotes
+
 ---
 
 ##
