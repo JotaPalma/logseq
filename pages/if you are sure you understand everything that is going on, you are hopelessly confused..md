@@ -7,7 +7,4 @@ Tags: #quote
 
 > If you are sure you understand everything that is going on, you are hopelessly confused.
 — Walter Mondale
-
-title: There are Known Knowns
-Tags: #quote, #Learning
 ##
