@@ -2,5 +2,4 @@
 title: vantagens do marketing digital
 ---
 
-## Tags
-### #marketing #[[digital marketing]] #formação
+## Tags #marketing #[[digital marketing]] #formação
