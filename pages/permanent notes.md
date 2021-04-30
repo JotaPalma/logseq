@@ -1,5 +1,6 @@
 ---
 title: permanent notes
+Tags: zettelkasten
 ---
 
 ## Permanent notes should be...permanent.
