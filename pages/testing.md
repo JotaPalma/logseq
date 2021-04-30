@@ -1,5 +1,6 @@
 ---
 title: testing
+Tags: #Learning, #study, #[[Make it Stick]]
 ---
 
 ## There are benefits to retrieving something from your memory in the form of testing.
