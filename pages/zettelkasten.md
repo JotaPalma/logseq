@@ -1,6 +1,6 @@
 ---
 title: Zettelkasten
-Tags: #[[Second Brain]] #zettelkasten #[[Personal Knowledge Management]] #[[research more]]
+Tags: #[[Second Brain]], #zettelkasten, #[[Personal Knowledge Management]], #[[research more]]
 ---
 
 ## It’s a [[Personal Knowledge Management]] tool
