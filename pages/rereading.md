@@ -1,8 +1,7 @@
 ---
 title: rereading
-Tags: #Learning, #Concept, #[[Make it stick]]
+Tags: #Learning, #Concept
 ---
-
 ## Summary:
 Studying technique that involves reading the same material again (or multiple times) in an attempt to make the material “stick” to your brain. It isn’t very effective in the long term, but in short term can help with memorization.
 ## Notes:
