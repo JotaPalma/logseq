@@ -19,6 +19,9 @@ title: Zettelkasten
 ## According to Niklas Luhmann’s paper on the zettelkasten, it gets to a point where it’s its own entity. It’s got a separate way of thinking and can answer questions in a non-[[linear thinking]] way
 ## The zettelkasten is compensating for the faults in our brains. It works in a way similar to it, but it doesn’t have the faults a biological brain does.
 ## Relating to [[systems thinking]], the more we write on our zettelkasten, the more useful it becomes. It grows and improves and is easier to use.
+:PROPERTIES:
+:id: 608bfcae-510d-4179-bd68-18f0a37340ca
+:END:
 ## Sources:
 ### [The Zettelkasten Method Explained](https://youtu.be/wFZHuWLA09M)
 ### [Roam Research, a tool for zettel](Roamresearch.com)
