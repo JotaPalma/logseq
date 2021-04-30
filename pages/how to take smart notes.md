@@ -17,4 +17,5 @@ Getting pleasure out of growing and changing for the better instead of getting p
 ## We don’t have a limited memory that gets filled up as we age. If we make connections between what we already know and what we’re learning, it’s easy to keep learning throughout life!
 ## Multitasking doesn’t make us more productive, it reduces our ability to focus and to change focus. But, the more we do it, the more convinced we are that we’re good at it. This is called exposure effect. The illusion that we’ve achieved [[mastery]] only by repetition, confusing familiarity with skill.
 ## There are different kinds of attention that are used for different kinds of activities.
-Example: working with the zettelkasten requires a
+Example: working with the zettelkasten requires a creative kind fo attention, while writing needs a more focused attention, without resorting to perfectionism. Proofreading requires more critical thinking and focused attention. Etc.
+##
