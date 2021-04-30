@@ -1,9 +1,8 @@
 ---
 title: learning is not an innate skill
+Tags: #Learning
 ---
 
-## Tags
-### #Learning
 ## While genetics plays a part on our starting point, our brain is pliable.
 ## Every time you learn something new, you change the brain.
 ## We become capable through [[Learning]] and development and make our own mental models that help us reason, solve and create.
