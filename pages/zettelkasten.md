@@ -19,9 +19,12 @@ title: Zettelkasten
 — [Source: zettelkasten.de](https://zettelkasten.de/introduction/)
 ## According to Niklas Luhmann’s paper on the zettelkasten, it gets to a point where it’s its own entity. It’s got a separate way of thinking and can answer questions in a non-[[linear thinking]] way
 ## The zettelkasten is compensating for the faults in our brains. It works in a way similar to it, but it doesn’t have the faults a biological brain does.
+##
 ## Sources:
 ### [The Zettelkasten Method Explained](https://youtu.be/wFZHuWLA09M)
 ### [Roam Research, a tool for zettel](Roamresearch.com)
 ### [Remnote.io, another tool](Remnote.io)
 ### [Zettelkasten in Notion](https://youtu.be/e3YKQ7JTqwU)
 ### [[How to Take Smart Notes]]
+## [[edit]]
+### [[Apr 30th, 2021]] 13:48
