@@ -1,7 +1,7 @@
 ---
 title: procrastination
 alias: procrastinating, procrastinate
-tags: #self 
+tags: #self, #[[mental health]]
 ---
 ## #[[mental health]] #self
 ##
