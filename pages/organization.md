@@ -1,7 +1,6 @@
 ---
 title: organization
+Tags: #Concept, #productivity
 ---
 
-## Tags
-### #organization #productivity
 ##
