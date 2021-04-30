@@ -16,4 +16,4 @@ As it turns out, yes. A study compared problem solving in 3 groups of people. On
 So, we can conclude that distracting yourself from your tasks or duties can help you to do better when you come back to them.
 Of course, you shouldn’t waste all day every day. That's [[procrastination]]. Set aside some time to distract yourself, go on a walk, meditate, scroll through social media, or just do plain old nothing!
  Besides, if you don’t regret the time you wasted, it wasn’t really wasted!
-## Source: [Can](https://youtu.be/sU_FjCatI58)
+## Source: [Can Time be Wasted? | Alexander Leitner | TEDxVienna](https://youtu.be/sU_FjCatI58)
