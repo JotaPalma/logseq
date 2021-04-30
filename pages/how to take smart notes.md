@@ -12,4 +12,5 @@ title: How to Take Smart Notes
 ## The book seems to heavily imply the author is familiar with [[systems thinking]]. There are references of feedback loops, virtuous and vicious cycle, and all sorts of other such terms.
 ## Growth mindset: being open to feedback, be it positive or negative, in order to better oneself and grow
 Getting pleasure out of growing and changing for the better instead of getting pleasure from praise.
-## The current education system only gives feedback every few months, at the end of a project or a term, or on a test. This doesn’t encourage positive feedback loops
+## The current education system only gives feedback every few months, at the end of a project or a term, or on a test. This doesn’t encourage positive feedback loops, when it comes to improving our knowledge or abilities.
+##
