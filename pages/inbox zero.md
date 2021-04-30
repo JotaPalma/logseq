@@ -1,5 +1,6 @@
 ---
 title: inbox zero
+tags: #productivity 
 ---
 
 ## Definition
