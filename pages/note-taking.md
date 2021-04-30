@@ -2,4 +2,5 @@
 title: note-taking
 ---
 
-## ## You get better at 
+## You get better at
+### [[Created]]
