@@ -2,9 +2,7 @@
 title: wasting time
 ---
 
-## Tags
-*** #productivity #procrastination
-** Definition
+## ** Definition
 
 A bad use of time, time spent doing useless or unnecessary things. This can mean 3 things
 
