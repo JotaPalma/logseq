@@ -18,4 +18,4 @@ Writing notes accompanies the main work and, done right, it helps with it. Writi
 :END:
 ### That way you'll do everything more deliberately.
 ### [[Source]]: [[How to Take Smart Notes]]
-##
+## By writing down what you read in [[your own words]], you’re forcing yourself to understanding what you’re reading. And by turning your [[litnotes]] into
