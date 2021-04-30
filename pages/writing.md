@@ -18,3 +18,4 @@ Writing notes accompanies the main work and, done right, it helps with it. Writi
 :END:
 ### That way you'll do everything more deliberately.
 ### [[Source]]: [[How to Take Smart Notes]]
+##
