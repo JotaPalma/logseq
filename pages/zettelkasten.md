@@ -12,7 +12,6 @@ title: Zettelkasten
 ## Tag your notes
 ## Find out which notes to keep as [[permanent notes]]. Compare them to the notes you already have with the same tags.
 ## This gives you a method to make connections, indexing and recalling
-##
 ## Notes communicate with one another to create connections.
 ## 
 > A Zettelkasten is a personal tool for thinking and [[writing]]. It has hypertextual features to make a web of thought possible. The difference to other systems is that you create a web of thoughts instead of notes of arbitrary size and form, and emphasize connection, not a collection
