@@ -1,5 +1,6 @@
 ---
 title: learning is stronger when it matters
+Tags: #quote, #Learning
 ---
 
 ## It’s a quote from [[Make it Stick]]
