@@ -1,5 +1,6 @@
 ---
 title: retrieval practice
+tags: #Learning, #memory
 ---
 
 ## Recalling facts or concepts or events from memory. Recalling through [[spaced repetition]] Example: flashcards. It strengthens the memory and interrupts forgetting
