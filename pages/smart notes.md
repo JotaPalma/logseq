@@ -11,7 +11,9 @@ title: smart notes
 ## 
 #+BEGIN_TIP
 
-#+END_TIP Don’t brainstorm for a new topic. Instead, look at the topics you already have and expand on them. New topics will arise.
+ Don’t brainstorm for a new topic. Instead, look at the topics you already have and expand on them. New topics will arise.
+
+#+END_TIP
 6. When writing about a subject, choose one already in your system. Lay out all the relevant notes in front of you, so that you can see what’s there, what’s reduntant, what needs to be developed. Allow yourself to come back to it after reading more on the subjects. Improve your ideas and arguments.
 7. Turn the notes into a rough draft. Don’t copy-paste. Write them in your own words, again. “Translate” them into a single text.
 8. Edit and proofread. Congrats, you’ve written a manuscript!
