@@ -20,6 +20,7 @@ title: Concept
 ## M
 ## N
 ## O
+### [[organization]]
 ## P
 ### [[productivity]]
 ## Q
