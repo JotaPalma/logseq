@@ -22,8 +22,8 @@ Tags: #Concept, #[[Second Brain]], #[[systems thinking]]
 ### 4. Find the feedback loops
 #### Self-magnifying or self-diminiscing patterns. They indicate causality. They keep going forever and might destabilize the system.
 ### 5. Understand the balancing processes
-**** Any system that’s sustained for a long time needs to have them to stop the system from going off the rails because of feedback loops or flaws in the system itself.
-**** They maintain equilibrium and define stability
-** 6. Study the system’s interaction with other systems
+#### Any system that’s sustained for a long time needs to have them to stop the system from going off the rails because of feedback loops or flaws in the system itself.
+#### They maintain equilibrium and define stability
+### 6. Study the system’s interaction with other systems
 ## No system is functional by itself. Every system interacts with other systems, influencing and being influenced.
 ## Source: August Bradley
