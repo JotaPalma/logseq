@@ -1,8 +1,7 @@
 ---
 title: systems thinking
-Tags: #Concept, #[[Second Brain]], #[[systems thinking]]
+Tags: #Concept, #[[Second Brain]]
 ---
-
 ## Systems Thinking enables you to see casual relationships that others miss, by seeing everything as a system
 ## The traditional thinking takes a simplistic approach to the world. Be it [[linear thinking]], [[analytical thinking]] or [[scientific thinking]]. They see the parts, but not the whole, and not how the whole interacts with other wholes around it.
 \
@@ -24,6 +23,6 @@ Tags: #Concept, #[[Second Brain]], #[[systems thinking]]
 ### 5. Understand the balancing processes
 #### Any system that’s sustained for a long time needs to have them to stop the system from going off the rails because of feedback loops or flaws in the system itself.
 #### They maintain equilibrium and define stability
-### 6. Study the system’s interaction with other systems
+#### 6. Study the system’s interaction with other systems
 ## No system is functional by itself. Every system interacts with other systems, influencing and being influenced.
 ## Source: August Bradley
