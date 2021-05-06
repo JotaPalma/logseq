@@ -3,9 +3,10 @@ title: systems thinking
 Tags: #Concept, #[[Second Brain]], #[[systems thinking]]
 ---
 
-## ** Systems Thinking enables you to see casual relationships that others miss, by seeing everything as a system
-** The traditional thinking takes a simplistic approach to the world. Be it [[linear thinking]], [[analytical thinking]] or [[scientific thinking]]. They see the parts, but not the whole, and not how the whole interacts with other wholes around it.
-** Systems thinking reveals relations between systems that wouldn’t be usually related in traditional thinking
+## Systems Thinking enables you to see casual relationships that others miss, by seeing everything as a system
+## The traditional thinking takes a simplistic approach to the world. Be it [[linear thinking]], [[analytical thinking]] or [[scientific thinking]]. They see the parts, but not the whole, and not how the whole interacts with other wholes around it.
+\
+## Systems thinking reveals relations between systems that wouldn’t be usually related in traditional thinking
 ** *[[emergence]]*
 *** New qualities forming that the components don’t have on their own.
 *** Example: water is wet, but neither hydrogen nor oxygen are. Only when they interact with each other and the world around them in a certain way, does this quality emerge.
