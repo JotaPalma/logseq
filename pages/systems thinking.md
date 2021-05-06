@@ -1,5 +1,6 @@
 ---
 title: systems thinking
+Tags: #Concept, #[[Second Brain]], #[[systems thinking]]
 ---
 
 ## ** Systems Thinking enables you to see casual relationships that others miss, by seeing everything as a system
