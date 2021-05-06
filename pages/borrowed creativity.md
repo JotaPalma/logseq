@@ -1,9 +1,8 @@
 ---
 title: borrowed creativity
+Tags: #creating, #Concept
 ---
 
-## Tags
-### #creating #Concept
 ## No single idea is completely original.
 ## Every idea is a remix of different mediums.
 ## You watch movies, shows, youtube videos, read books, research papers, comics, etc. and make your own assumptions based on this.
