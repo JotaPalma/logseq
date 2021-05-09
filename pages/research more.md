@@ -11,4 +11,4 @@ title: research more
 :END:
 ## Evergreen notes
 ## Book: Lord of the Flies
-##
+## Author: Judy Butler, writer on subject of Gender Studies
