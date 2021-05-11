@@ -23,5 +23,5 @@ functional level as a means of cultivating the mind, and not as an end
 in itself. We are concerned, not with the development of just one
 capacity, such as that of a mathematician, or a scientist, or a
 musician, but with the total development of the student as a human
-being.      
-  --Jiddu Krishnamurti
+being.
+—Jiddu Krishnamurti
