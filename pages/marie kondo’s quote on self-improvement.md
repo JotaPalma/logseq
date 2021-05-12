@@ -11,6 +11,4 @@ Tags: #organization, #self, #quote
 
 It is not our memories but the person we have become of those past experiences we should treasure. This is the lesson these keepsakes teach us when we sort them. The space in which we live should be for the person we are becoming now, not for the person we were in the past.
 
-— The Life-Changing Magic of Tidying-Up, Marie Kondo
-
 #+END_QUOTE
