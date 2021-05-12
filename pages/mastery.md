@@ -3,6 +3,12 @@ title: mastery
 Tags: #Learning
 ---
 
-## Mastery in any field, from cooking to chess to brain surgery, is a gradual accretion of knowledge, conceptual understanding, judgement, and skill.
-## Mastery requires both the possession of ready knowledge and the con- ceptual understanding of how to use it.
+## 
+#+BEGIN_QUOTE
+Mastery in any field, from cooking to chess to brain surgery, is a gradual accretion of knowledge, conceptual understanding, judgement, and skill.
+#+END_QUOTE
+## 
+#+BEGIN_QUOTE
+Mastery requires both the possession of ready knowledge and the conceptual understanding of how to use it.
+#+END_QUOTE
 ## Quotes from [[Make it Stick]]
