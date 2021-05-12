@@ -6,9 +6,7 @@ Tags: #Concept, #[[Second Brain]]
 ## The traditional thinking takes a simplistic approach to the world. Be it [[linear thinking]], [[analytical thinking]] or [[scientific thinking]]. They see the parts, but not the whole, and not how the whole interacts with other wholes around it.
 \
 ## Systems thinking reveals relations between systems that wouldn’t be usually related in traditional thinking
-## *[[emergence]]*
-### New qualities forming that the components don’t have on their own.
-### Example: water is wet, but neither hydrogen nor oxygen are. Only when they interact with each other and the world around them in a certain way, does this quality emerge.
+## [[emergence]], the forming of new qualities, “the result being bigger than the sum of its parts”.
 ## How to:
 ### 1. Find the inputs, outputs and movements
 #### Entry and exit points
