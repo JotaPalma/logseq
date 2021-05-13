@@ -7,3 +7,4 @@ title: read with a pen in your hand
 ## The arguments in your zettelkasten are shaped by the ideas, thoughts and theories in your mind. Those, in turn, are shaped and influenced by what you read or otherwise consume and, hopefully, also by the new connections made by the slip-box.
 ## The arguments in your zettelkasten are shaped by the ideas, thoughts and theories in your mind. Those, in turn, are shaped and influenced by what you read or otherwise consume and, hopefully, also by the new connections made by the slip-box.
 ## Source: [[How to Take Smart Notes]]
+## [[Created]] [[May 13th, 2021]] 14:03
