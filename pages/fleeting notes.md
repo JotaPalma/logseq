@@ -1,8 +1,7 @@
 ---
 title: fleeting notes
-Tags: Zettelkasten, notes
+Tags: Zettelkasten, note-taking
 ---
-
 ## Fleeting notes should be taken anytime, anywhere.
 ## Always carry some writing material so that you can take notes any time, anywhere. Doesn't matter if it's note-worthy or not. Try to combine them all into one place, that we’ll call [[inbox]]
 ## Do everything with the intention of writing about it. and then do write about it.
