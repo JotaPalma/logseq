@@ -5,8 +5,6 @@ title: PPV
 :PROPERTIES:
 :tags: second brain, productivity
 :END:
-## Tags
-### #[[Second Brain]] #[[productivity]]
 ## PPV: Pillars Pipelines and Vaults
 ## Pillars → support beams that hold the “roof” up, supporting your life. They support your life and your aspirations.
 ## Pipelines → Databases that are in motion, where action happens andis tracked. There’s an action items database,with all the bite-sized action items, and the other databases work with it to help you grow as a person
