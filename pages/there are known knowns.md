@@ -1,5 +1,6 @@
 ---
 title: There are Known Knowns
+Tags: quote
 ---
 
 ## 
