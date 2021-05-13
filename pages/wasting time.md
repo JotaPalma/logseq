@@ -1,6 +1,7 @@
 ---
 title: wasting time
 Tags: #productivity
+Alias: waste of time, time wasting
 ---
 ### Definition
 A bad use of time, time spent doing useless or unnecessary things. This can mean 3 things
