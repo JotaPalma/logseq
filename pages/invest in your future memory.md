@@ -8,4 +8,4 @@ Tags: #Second Brain, #memory
 ## This way you’re not starting with a blank page, you’re [[creating from abundance]] (look up Ali Abdaal’s video where he mentions this)
 ## I always try to be as clear as I can about why I’m [[writing]] something down, so that my future self remembers why.
 ## Source: [Youtube](https://youtu.be/96pSnIo4nDg)
-## [[edit]]
+## [[edit]] [[May 13th, 2021]] 14:09
