@@ -11,4 +11,4 @@ tags: #memory, #study, #Learning, #Concept
 ## If learners spread out their study of a topic, periodically over time, they’ll remember it.
 ## How spaced out should repetition be?
 ### When you space out practice and are in the process of forgetting, retrieval is harder and feels less productive, but the effort has longer lasting effects and allows for more versatile application in later settings.
-##
+## Source: [[Make it Stick]]
