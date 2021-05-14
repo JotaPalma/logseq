@@ -32,3 +32,4 @@ title: topic
 ## X
 ## Y
 ## Z
+### [[zettelkasten]]
