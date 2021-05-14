@@ -4,6 +4,7 @@ title: topic
 
 ## A
 ## B
+### [[book]] (where I store my [[litnotes]])
 ## C
 ## D
 ## E
@@ -16,7 +17,7 @@ title: topic
 ## L
 ### [[Learning]]
 ## M
-###
+### [[mental health]]
 ## N
 ## O
 ## P
