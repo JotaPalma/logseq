@@ -1,5 +1,6 @@
 ---
 title: confirmation bias
+Tags: psychology
 ---
 
 ## Confirmation Bias makes you surround yourself by people who think like you because they think like you. It also tries to impede you from researching for subjects or arguments that disprove or argue against what you believe in. A way to stop this from affecting you and your work is by acknowledging it exists, like Charles Darwin. He wrote down every thought he had that could go against his research or belief.
