@@ -3,4 +3,5 @@ title: Barnum Effect
 Tags: #psychology
 ---
 
-## Named after the circus guy, PT Barnum
+## Named after the showman P.T. Barnum.
+## Reading your crowd and m
