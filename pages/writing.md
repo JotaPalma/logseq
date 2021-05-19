@@ -13,3 +13,8 @@ Writing notes accompanies the main work and, done right, it helps with it. Writi
  — [[How to Take Smart Notes]]
 ## This is definitely correct. Writing helps the ideas flow. Writing something about what you’re reading helps you put stuff into [[your own words]], which is an important part of [[Learning]]
 ## Do everything with the intention of writing about it. That way you'll do everything more deliberately.
+## 
+#+BEGIN_QUOTE
+The most important advantage of writing is that it helps us to confront ourselves when we do not understand something as well as we would like to believe. 
+#+END_QUOTE The most important advantage of writing is that it helps us to confront ourselves when we do not understand something as well as we would like to believe.
+## Writing makes us skeptical of our own arguments and knowledge
