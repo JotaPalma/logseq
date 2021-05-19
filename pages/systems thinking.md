@@ -23,5 +23,6 @@ Tags: #Concept, #[[Second Brain]]
 #### They maintain equilibrium and define stability
 #### 6. Study the system’s interaction with other systems
 ## No system is functional by itself. Every system interacts with other systems, influencing and being influenced.
-##
+## Applications:
+### Rewriting trains our brain to think about things with systems in mind. Makes us think about frames, patterns and categories, as opposed to just trying to memorize a single, isolated fact, like in linear thinking.
 ## Source: August Bradley
