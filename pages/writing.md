@@ -16,5 +16,6 @@ Writing notes accompanies the main work and, done right, it helps with it. Writi
 ## 
 #+BEGIN_QUOTE
 The most important advantage of writing is that it helps us to confront ourselves when we do not understand something as well as we would like to believe. 
-#+END_QUOTE The most important advantage of writing is that it helps us to confront ourselves when we do not understand something as well as we would like to believe.
-## Writing makes us skeptical of our own arguments and knowledge
+#+END_QUOTE
+— [[How to Take Smart Notes]]
+### Writing makes us skeptical of our own arguments and knowledge
