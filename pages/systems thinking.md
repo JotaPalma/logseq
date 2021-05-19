@@ -23,4 +23,5 @@ Tags: #Concept, #[[Second Brain]]
 #### They maintain equilibrium and define stability
 #### 6. Study the system’s interaction with other systems
 ## No system is functional by itself. Every system interacts with other systems, influencing and being influenced.
+##
 ## Source: August Bradley
