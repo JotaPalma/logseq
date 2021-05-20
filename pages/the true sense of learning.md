@@ -9,3 +9,4 @@ Learning in the true sense of the word is possible only in that state of attenti
 — Jiddu Krishnamurti
 #+END_QUOTE
 ## This relates to [[all new learning requires a foundation of prior knowledge]], as it’s knowledge that makes the basis for new learning, but [[knowledge shouldn’t be the main goal]]. It should be a means for learning, and attention is the vehicle that makes it happen
+##
