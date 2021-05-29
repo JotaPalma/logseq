@@ -74,4 +74,5 @@
  :macros {}
  :feature/enable-journals? true
  :default-home {}
- :feature/enable-encryption? false}
+ :feature/enable-encryption? false
+ :markdown/version 2}
