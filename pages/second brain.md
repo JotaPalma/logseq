@@ -14,9 +14,7 @@ title: Second Brain
 ### Organize
 #### Refer to the PARA part for organizing
 ### Distill
-:PROPERTIES:
-:id: 6081a0d7-f974-48a4-bef5-8f2a3ee0d284
-:END:
+id:: 6081a0d7-f974-48a4-bef5-8f2a3ee0d284
 #### Summarize the information progressively and delete what isn’t important
 ### Express
 #### Share what you’ve learned with the world
@@ -29,9 +27,7 @@ title: Second Brain
 #### That you want to maintain over time. They’re the topics, like Health, finance, work, school, etc.
 ### Resources
 ### Archive
-:PROPERTIES:
-:id: 608947ce-fa89-4bd4-b475-6909977b60b7
-:END:
+id:: 608947ce-fa89-4bd4-b475-6909977b60b7
 #### Inactive items from the other categories
 ## Publishing a book is a Project, but [[writing]] is an Area
 ## Saving 3 months of salary is a Project, but finance is an Area
@@ -39,4 +35,4 @@ title: Second Brain
 ## Projects have a completion date, and contribute to achieving goals. By completing a project, your success on that Area increases.
 ## Goals by themselves will probably become hobbies over time, if not connected to a project.
 ## Break down your goals into projects, and those projects into actions that you can take
-## [[Source]]: [Source](https://youtu.be/96pSnIo4nDg)
+- [[Source]]: [Source](https://youtu.be/96pSnIo4nDg)
