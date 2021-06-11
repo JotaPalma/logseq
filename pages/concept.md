@@ -32,11 +32,11 @@ title: Concept
 	- [[slow burn]]
 - T
 - U
-## V
-## W
-## X
-## Y
-## Z
+- V
+- W
+- X
+- Y
+- Z
 ##
 ## [[Created]]: [[Apr 23rd, 2021]] 12:48
 ##
