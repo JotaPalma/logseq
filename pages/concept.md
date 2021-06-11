@@ -29,7 +29,7 @@ title: Concept
 ## S
 ### [[spaced repetition]]
 ### [[systems thinking]]
-### [[slow burn]]
+- [[slow burn]]
 ## T
 ## U
 ## V
