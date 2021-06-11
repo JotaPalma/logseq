@@ -7,10 +7,11 @@ title: Concept
 - B
 	- [[borrowed creativity]]
 - C
-- D E
-- [[elaboration]]
-## F
-## G
+- D
+- E
+	- [[elaboration]]
+- F
+- G
 ## H
 ## I
 ## J
