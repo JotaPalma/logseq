@@ -7,4 +7,4 @@ title: note-taking
 - Sources
 - [[How to Take Smart Notes]]
 - [[Created]]: [[Apr 30th, 2021]] 13:46
-## [[edit]] [[May 13th, 2021]] 14:00
+- [[edit]] [[May 13th, 2021]] 14:00
