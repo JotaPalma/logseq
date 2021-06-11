@@ -3,8 +3,8 @@ title: Zettelkasten
 Tags: #[[Second Brain]], #zettelkasten, #[[Personal Knowledge Management]], #[[research more]], #note-taking 
 ---
 
-## It’s a [[Personal Knowledge Management]] tool
-## Consists of taking notes, tagging them and making bidirectional links between them, to make connections.
+- It’s a [[Personal Knowledge Management]] tool
+- #Consists of taking notes, tagging them and making bidirectional links between them, to make connections.
 ## Adding new knowledge to your existing knowledge, to create ideas.
 ## German for “Note Box” Niklas Luhmann, a german sociologist.
 - [[smart notes]]: Make [[fleeting notes]] on the go. Just write every idea down as it comes to you. On paper, on Notion, phone notes, whatever. Just jot it down. Think of yourself as a collector of ideas. Jot down the source for everything.
