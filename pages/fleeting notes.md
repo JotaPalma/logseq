@@ -8,6 +8,6 @@ Tags: Zettelkasten, note-taking
 ## Do everything with the intention of writing about it. and then do write about it.
 ## Be as clear and concise about your note, [[write for your future self]]
 ## At the end of the day or as soon as possible(so your memory is fresh), process your notes, think on them, write permanent notes and store them either in the [[Zettelkasten]] or into a [[reference]] system.
-## Toss the fleeting notes that were already processed, so that you have a clean workspace every day (or every couple of days). It’s a way of achieving [[inbox zero]].
+- Toss the fleeting notes that were already processed, so that you have a clean workspace every day (or every couple of days). It’s a way of achieving [[inbox zero]].
 - Source: [[How to Take Smart Notes]]
 ## [[edit]]: [[May 13th, 2021]] 11:23
