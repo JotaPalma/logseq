@@ -14,9 +14,10 @@ Tags: #Concept, #[[Second Brain]]
 	- Bottlenecks, and what happens to the buildup at the bottlenecks
 -
   2. Distinguish linear from circular
-#### The linear ones usually enter and exit and aren’t important
-### 3. Look for patterns
-#### They are central to systems’ function. Find and describe them. Use flowcharts.
+	- The linear ones usually enter and exit and aren’t important
+-
+  3. Look for patterns
+	- They are central to systems’ function. Find and describe them. Use flowcharts.
 #### Once you find the patterns, look for similar ones in closeby systems, in the [[big picture]]. Zoom in, zoom out.
 ### 4. Find the feedback loops
 #### Self-magnifying or self-diminiscing patterns. They indicate causality. They keep going forever and might destabilize the system.
