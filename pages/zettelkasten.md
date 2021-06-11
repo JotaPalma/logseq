@@ -26,4 +26,5 @@ Tags: #[[Second Brain]], #zettelkasten, #[[Personal Knowledge Management]], #[[r
 - [Zettelkasten in Notion](https://youtu.be/e3YKQ7JTqwU)
 - [[How to Take Smart Notes]]
 - [[edit]]
-### [[Apr 30th, 2021]] 13:48
+	- [[Apr 30th, 2021]] 13:48
+	- [[Jun 11th, 2021]] 18:17
