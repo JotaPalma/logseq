@@ -30,5 +30,5 @@ Tags: #Concept, #[[Second Brain]]
   6. Study the system’s interaction with other systems
 - No system is functional by itself. Every system interacts with other systems, influencing and being influenced.
 ## Applications:
-### Rewriting trains our brain to think about things with systems in mind. Makes us think about frames, patterns and [[categories]], as opposed to just trying to memorize a single, isolated fact, like in [[linear thinking]] https://logseq.com/#/page/systems%20thinking.
-## Source: August Bradley
+- Rewriting trains our brain to think about things with systems in mind. Makes us think about frames, patterns and [[categories]], as opposed to just trying to memorize a single, isolated fact, like in [[linear thinking]] https://logseq.com/#/page/systems%20thinking.
+- Source: August Bradley
