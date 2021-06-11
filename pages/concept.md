@@ -3,13 +3,12 @@ title: Concept
 ---
 
 ## Concepts covered, alphabetically:
-## A
-## B
-### [[borrowed creativity]]
-## C
-## D
-## E
-### [[elaboration]]
+- A
+- B
+	- [[borrowed creativity]]
+- C
+- D E
+- [[elaboration]]
 ## F
 ## G
 ## H
