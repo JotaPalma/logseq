@@ -11,4 +11,4 @@ Tags: Zettelkasten, note-taking
 - Toss the fleeting notes that were already processed, so that you have a clean workspace every day (or every couple of days). It’s a way of achieving [[inbox zero]].
 - Source: [[How to Take Smart Notes]]
 - [[edit]]: [[May 13th, 2021]] 11:23
-	-
+	- [[Jun 11th, 2021]] 18:16
