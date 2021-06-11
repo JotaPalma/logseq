@@ -12,26 +12,26 @@ title: Concept
 	- [[elaboration]]
 - F
 - G
-## H
-## I
-## J
-## K
-## L
-## M
-## N
-## O
-### [[organization]]
-## P
-### [[productivity]]
-## Q
-## R
-### [[rereading]]
-## S
-### [[spaced repetition]]
-### [[systems thinking]]
-- [[slow burn]]
-## T
-## U
+- H
+- I
+- J
+- K
+- L
+- M
+- N
+- O
+	- [[organization]]
+- P
+	- [[productivity]]
+- Q
+- R
+	- [[rereading]]
+- S
+	- [[spaced repetition]]
+	- [[systems thinking]]
+	- [[slow burn]]
+- T
+- U
 ## V
 ## W
 ## X
