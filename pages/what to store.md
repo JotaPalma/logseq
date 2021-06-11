@@ -9,4 +9,4 @@ Tags: #[[Second Brain]]
 ## Instead of just capturing something without context, highlight the important parts, and comment on what it means to you.
 ## Don’t brainstorm for a new topic. Instead, look at the topics you already have and expand on them. New topics will arise.
 ## Be selective in reading and [[note-taking]], but the selection criterion is whether it adds to a discussion already present in the [[zettelkasten]]. Does it connect? Is it open to connections?
-## [[Source]]: [YouTube](https://youtu.be/4bxpsvcW2mc) and [[How to Take Smart Notes]]
+- [[Source]]: [YouTube](https://youtu.be/4bxpsvcW2mc) and [[How to Take Smart Notes]]
