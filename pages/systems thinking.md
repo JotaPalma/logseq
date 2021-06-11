@@ -8,10 +8,12 @@ Tags: #Concept, #[[Second Brain]]
 - Systems thinking reveals relations between systems that wouldn’t be usually related in traditional thinking
 - [[emergence]], the forming of new qualities, “the result being bigger than the sum of its parts”.
 ## How to:
-### 1. Find the inputs, outputs and movements
-#### Entry and exit points
-#### Bottlenecks, and what happens to the buildup at the bottlenecks
-### 2. Distinguish linear from circular
+-
+  1. Find the inputs, outputs and movements
+	- Entry and exit points
+	- Bottlenecks, and what happens to the buildup at the bottlenecks
+-
+  2. Distinguish linear from circular
 #### The linear ones usually enter and exit and aren’t important
 ### 3. Look for patterns
 #### They are central to systems’ function. Find and describe them. Use flowcharts.
