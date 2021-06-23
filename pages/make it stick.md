@@ -16,8 +16,8 @@ Tags: #book, #Learning, #litnotes
 	- [[learning is not an innate skill]]
 	- [[retrieval practice]]
 	- [[elaboration]]
-#### [[all new learning requires a foundation of prior knowledge]]
-#### [[big picture]]
+	- [[all new learning requires a foundation of prior knowledge]]
+	- [[big picture]]
 #### [[being skeptical]] is important
 #### [[cognitive psychology]]
 #### [[rereading]] isn’t effective in the long run
