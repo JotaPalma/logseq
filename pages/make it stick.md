@@ -20,9 +20,9 @@ Tags: #book, #Learning, #litnotes
 	- [[big picture]]
 	- [[being skeptical]] is important
 	- [[cognitive psychology]]
-	- #### [[rereading]] isn’t effective in the long run
-#### [[learning is stronger when it matters]], when you have an attachment to it
-#### What is [[mastery]] of a subject?
+	- [[rereading]] isn’t effective in the long run
+	- [[learning is stronger when it matters]], when you have an attachment to it
+	- What is [[mastery]] of a subject?
 #### [[testing]] as a way to practice [[active recall]]
 ### To learn, retrieve
 #### [[Creativity]] without knowledge builds a shaky house
