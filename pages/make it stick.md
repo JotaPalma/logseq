@@ -25,8 +25,8 @@ Tags: #book, #Learning, #litnotes
 	- What is [[mastery]] of a subject?
 	- [[testing]] as a way to practice [[active recall]]
 ### To learn, retrieve
-#### [[Creativity]] without knowledge builds a shaky house
-####
+	- [[Creativity]] without knowledge builds a shaky house
+	-
 ### Mix up your practice
 ### Embrace difficulties
 ### Avoid illusions of knowing
