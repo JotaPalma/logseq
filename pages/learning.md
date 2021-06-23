@@ -3,8 +3,8 @@ title: Learning
 Tags: #topic
 ---
 
-## What doesn’t work for learning?
-### [[linear thinking]] [[rereading]]
+- What doesn’t work for learning?
+	- [[linear thinking]] [[rereading]]
 ## What works?
 ### [[spaced repetition]] [[testing]] [[retrieval practice]] [[elaboration]]
 ### Low-stakes quizzing and self- [[testing]]
