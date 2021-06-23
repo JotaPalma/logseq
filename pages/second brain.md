@@ -13,8 +13,8 @@ title: Second Brain
 #### Collect the various snippets of info you encounter throughout the day
 ### Organize
 #### Refer to the PARA part for organizing
-### Distill
-id:: 6081a0d7-f974-48a4-bef5-8f2a3ee0d284
+- Distill
+  id:: 6081a0d7-f974-48a4-bef5-8f2a3ee0d284
 #### Summarize the information progressively and delete what isn’t important
 ### Express
 #### Share what you’ve learned with the world
