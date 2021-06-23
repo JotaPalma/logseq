@@ -18,8 +18,8 @@ Tags: #book, #Learning, #litnotes
 	- [[elaboration]]
 	- [[all new learning requires a foundation of prior knowledge]]
 	- [[big picture]]
-#### [[being skeptical]] is important
-#### [[cognitive psychology]]
+	- [[being skeptical]] is important
+	- #### [[cognitive psychology]]
 #### [[rereading]] isn’t effective in the long run
 #### [[learning is stronger when it matters]], when you have an attachment to it
 #### What is [[mastery]] of a subject?
