@@ -8,9 +8,9 @@ Tags: #book, #Learning, #litnotes
 ## It is a book on [[Learning]], and how Spaced Repetition is the most effective study method
 ## Content:
 ### Preface
-#### [[Learning]] strategies
-##### The most effective learning strategies are not intuitive
-##### [[spaced repetition]] of key ideas, and the interleaving of different but related topics.
+- [[Learning]] strategies
+- The most effective learning strategies are not intuitive
+- [[spaced repetition]] of key ideas, and the interleaving of different but related topics.
 ##### If learners spread out their study of a topic, periodically over time, they’ll remember it.
 ### [[Learning]] is misunderstood
 #### [[learning is not an innate skill]]
