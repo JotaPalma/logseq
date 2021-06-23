@@ -11,8 +11,8 @@ Tags: #book, #Learning, #litnotes
 - [[Learning]] strategies
 - The most effective learning strategies are not intuitive
 - [[spaced repetition]] of key ideas, and the interleaving of different but related topics.
-##### If learners spread out their study of a topic, periodically over time, they’ll remember it.
-### [[Learning]] is misunderstood
+- If learners spread out their study of a topic, periodically over time, they’ll remember it.
+## [[Learning]] is misunderstood
 #### [[learning is not an innate skill]]
 #### [[retrieval practice]]
 #### [[elaboration]]
