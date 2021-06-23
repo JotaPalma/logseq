@@ -11,8 +11,8 @@ Tags: #topic
 	- Spaced out practice through [[spaced repetition]]
 	- Interleaving the practice of different but related topics or skills (could be through the [[Zettelkasten]])
 	- Trying to solve a problem before being taught the solution
-### ((6081a0d7-f974-48a4-bef5-8f2a3ee0d284))ing the underlying principles or rules that differentiate types of problems
-## [[quote]]
+	- ((6081a0d7-f974-48a4-bef5-8f2a3ee0d284))ing the underlying principles or rules that differentiate types of problems
+- [[quote]]
 ### Learning in the true sense of the word is possible only in that
 state of attention, in which there is no outer or inner compulsion.
 Right thinking can come about only when the mind is not enslaved by
