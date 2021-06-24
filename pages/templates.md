@@ -14,8 +14,7 @@ template:: food
 - [[Breakfast]]
 - [[Lunch]]
 -
-### [[Dinner]]
-####
+- [[Dinner]]
 ### [[Snacks]]
 ####
 ## 
