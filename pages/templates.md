@@ -3,20 +3,15 @@ title: Templates
 ---
 
 ## 
-:PROPERTIES:
-:background_color: #497d46
-:tags: 
-:template: tags
-:END:
+background-color:: #497d46
+tags:: 
+template:: tags
 Summary:
 Notes:
 [[Source]]
 ## [[Food]]
-:PROPERTIES:
-:template: food
-:END:
-### [[Breakfast]]
-####
+template:: food
+- [[Breakfast]]
 ### [[Lunch]]
 ####
 ### [[Dinner]]
@@ -24,6 +19,4 @@ Notes:
 ### [[Snacks]]
 ####
 ## 
-:PROPERTIES:
-:background_color: #497d46
-:END:
+background-color:: #497d46
