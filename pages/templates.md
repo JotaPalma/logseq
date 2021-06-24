@@ -15,7 +15,4 @@ template:: food
 - [[Lunch]]
 -
 - [[Dinner]]
-### [[Snacks]]
-####
-## 
-background-color:: #497d46
+- [[Snacks]]
