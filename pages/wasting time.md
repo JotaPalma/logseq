@@ -3,9 +3,11 @@ title: wasting time
 Tags: #productivity
 Alias: waste of time, time wasting
 ---
+
 ### Definition
 A bad use of time, time spent doing useless or unnecessary things. This can mean 3 things
-#### 1. Doing nothing.
+-
+  1. Doing nothing.
 #### 2. Not producing anything
 #### 3. Not contributing toward your goals
 ## Can time be truly wasted?
